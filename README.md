@@ -35,5 +35,5 @@ You can explore each of the projects listed above by clicking on the respective 
 
 ## 🌐 Links
 
-- <a href="https://www.linkedin.com/in/ilyas-taj-07/" target="_blank">LinkedIn Profile</a>
+- <a href="https://www.linkedin.com/in/ilyas-hussain-376275202/" target="_blank">LinkedIn Profile</a>
 - <a href="https://www.youtube.com/@iCubeCode" target="_blank">YouTube Channel - iCubeCode</a>
