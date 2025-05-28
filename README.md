@@ -18,7 +18,7 @@ A clone of **Myntra**, an online fashion shopping platform. This project uses **
 
 **Retrofun** is a web socket-based application where team members can join a room and perform a retrospective for the current sprint. Built using **React.js** and **WebSockets**, this app helps teams in agile development reflect and discuss the previous sprint in a collaborative manner.
 
-### 4. **<a href="https://pickit-tool.vercel.app" target="_blank">Pickit</a>**
+### 4. **<a href="https://pickit-tool.vercel.app/" target="_blank">Pickit</a>**
 
 **Pickit** is a tool that lets you extract color **hex codes** by uploading an image, pasting a URL, or pasting a screenshot. It also features a **PX to REM converter** for responsive design. A simple yet powerful tool for web developers and designers.
 
