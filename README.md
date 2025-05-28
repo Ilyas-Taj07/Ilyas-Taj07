@@ -35,5 +35,5 @@ You can explore each of the projects listed above by clicking on the respective 
 
 ## 🌐 Links
 
-- <a href="https://www.linkedin.com/in/ilyas-hussain-376275202/" target="_blank"><img src="https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca" alt="LinkedIn" width="20px" height="20px">LinkedIn Profile</a>
-- <a href="https://www.youtube.com/@iCubeCode" target="_blank"><img src="https://www.youtube.com/s/desktop/ca553d13/img/logos/favicon_32x32.png" alt="youtube" width="20px" height="20px">YouTube Channel - iCubeCode</a>
+- <a href="https://www.linkedin.com/in/ilyas-hussain-376275202/" target="_blank">LinkedIn Profile</a>
+- <a href="https://www.youtube.com/@iCubeCode" target="_blank">YouTube Channel - iCubeCode</a>
