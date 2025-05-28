@@ -26,7 +26,7 @@ A clone of **Myntra**, an online fashion shopping platform. This project uses **
 
 - **Frontend:** HTML, CSS3, JavaScript, React.js
 - **Backend:** Node.js
-- **Database:** SQL Server
+- **Database:** SQL Server, Mongodb
 - **Others:** WebSockets, REST APIs, Vercel for deployment
 
 ## 📚 Usage
