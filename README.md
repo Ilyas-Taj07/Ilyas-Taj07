@@ -22,7 +22,7 @@ A clone of **Myntra**, an online fashion shopping platform. This project uses **
 
 **Pickit** is a tool that lets you extract color **hex codes** by uploading an image, pasting a URL, or pasting a screenshot. It also features a **PX to REM converter** for responsive design. A simple yet powerful tool for web developers and designers.
 
-### 5. **Flickpad** [Modbile App]
+### 5. **<a href="https://expo.dev/accounts/ilyas_taj/projects/flickpad" target="blank">Flickpad</a>** [Modbile App]
 
 A feature-rich notepad app built with **React Native Expo** that goes beyond just taking notes. Flickpad offers a clean and intuitive interface with the following key features:
 
