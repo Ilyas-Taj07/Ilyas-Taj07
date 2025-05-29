@@ -38,7 +38,7 @@ At its core, **Flickpad** is a powerful notepad app with added tools for product
 
 ## 🛠️ Technologies Used
 
-- **Frontend:** HTML, CSS3, JavaScript, React.js
+- **Frontend:** HTML, CSS3, Tailwind, JavaScript, React.js, React Native
 - **Backend:** Node.js
 - **Database:** SQL Server, MongoDB
 - **Others:** WebSockets, REST APIs, Vercel for deployment
