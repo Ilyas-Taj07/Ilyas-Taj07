@@ -6,34 +6,30 @@ Welcome to my GitHub profile! Here you'll find my personal projects showcasing v
 
 Here are some of my key projects:
 
-### 1. **<a href="https://spotify-clone-three-wheat-19.vercel.app/" target="_blank">Spotify Clone</a>**
+### 1. [**Spotify Clone**](https://spotify-clone-three-wheat-19.vercel.app/)
 
-A simple clone of Spotify, built using **React.js** for the frontend and **Node.js** for the backend. It mimics Spotify's basic features like playlists, music player controls, and user interface design.
+A front-end clone of Spotify built using **React.js**, featuring a clean and modern UI inspired by the official Spotify website. The music player streams audio from local files stored in the public folder, ensuring playback functionality even after the app is built and deployed.
 
-### 2. **<a href="https://myntra-clone-tawny-pi.vercel.app/" target="_blank">Myntra Clone</a>**
+### 2. [**Myntra Clone**](https://myntra-clone-tawny-pi.vercel.app/)
 
 A clone of **Myntra**, an online fashion shopping platform. This project uses **React.js** for the UI and is designed to replicate Myntra's main features like product listings, filters, and a shopping cart.
 
-### 3. **<a href="https://retrofun-ilyas.netlify.app/" target="_blank">Retrofun</a>**
+### 3. [**Retrofun**](https://retrofun-ilyas.netlify.app/)
 
-**Retrofun** is a web socket-based application where team members can join a room and perform a retrospective for the current sprint. Built using **React.js** and **WebSockets**, this app helps teams in agile development reflect and discuss the previous sprint in a collaborative manner.
+**Retrofun** is a web socket-based retrospective app for agile teams. Built using **React.js** for the frontend and **Node.js** for the backend, it allows team members to join a room and collaboratively reflect on the current sprint in real-time via **WebSockets**.
 
-### 4. **<a href="https://pickit-tool.vercel.app/" target="_blank">Pickit</a>**
+### 4. [**Pickit**](https://pickit-tool.vercel.app/)
 
-**Pickit** is a tool that lets you extract color **hex codes** by uploading an image, pasting a URL, or pasting a screenshot. It also features a **PX to REM converter** for responsive design. A simple yet powerful tool for web developers and designers.
+**Pickit** is a developer tool for extracting color **hex codes** from any image. Users can upload an image, paste a URL, or paste a screenshot, then use a pointer to grab any color from the image. It also includes a **PX to REM converter** and vice versa, making it especially useful for responsive design workflows.
 
-### 5. **<a href="https://expo.dev/accounts/ilyas_taj/projects/flickpad" target="blank">Flickpad</a>** [Modbile App]
+### 5. [**Flickpad**](https://expo.dev/accounts/ilyas_taj/projects/flickpad) *(Mobile App)*
 
-A feature-rich notepad app built with **React Native Expo** that goes beyond just taking notes. Flickpad offers a clean and intuitive interface with the following key features:
+A simple yet effective notepad app built with **React Native Expo**, offering two core features:
 
-- **Text Notes** – Quickly jot down ideas, reminders, or detailed content.
-- **Checklist** – Create to-do lists or checkable task lists to stay organized.
-- **Spend Sheet** – A simple monthly budget tracker. Set a total budget, add expenses, and track how much you've saved.
-- **Note Locking** – Password-protect your notes to keep sensitive information secure.
+- **Notes** – For quickly jotting down ideas or content.
+- **Checklists** – Create task lists and stay organized.
 
-Security is also a focus: Flickpad allows you to lock notes with a password, ensuring sensitive information stays private.
-
-At its core, **Flickpad** is a powerful notepad app with added tools for productivity and personal finance tracking.
+A unique feature of **Flickpad** is the ability to **lock notes with a password**, ensuring your sensitive content stays private.
 
 
 ## 🛠️ Technologies Used
